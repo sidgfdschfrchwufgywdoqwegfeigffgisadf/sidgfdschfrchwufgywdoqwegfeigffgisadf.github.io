@@ -66,20 +66,12 @@ We never access or upload other files.
 Payments are handled through **Google Play Billing**.  
 We do not process or store your payment information.
 
-### 5. Ads and Analytics
-- The game may include **optional rewarded ads**.  
-- Ads are shown through **Google AdMob**, which may use your **advertising ID (AAID)**.  
-- You can reset or opt out of ad personalization anytime in Android settings:  
-  **Settings → Privacy → Ads → Delete Advertising ID**.
 
-### 6. Children’s Privacy
-We do not knowingly collect data from children under 13.
-
-### 7. Data Retention
+### 5. Data Retention
 We do not store personal data.  
 Anonymous analytics and crash logs are deleted automatically after analysis.
 
-### 8. Changes
+### 6. Changes
 This policy may be updated periodically. The latest version will always be available at this URL.
 
 
@@ -89,7 +81,7 @@ This policy may be updated periodically. The latest version will always be avail
 
 - **Engine:** Unity 6 (URP)  
 - **Platform:** Android  
-- **Billing:** Google Play Billing Library v7  
+- **Billing:** Google Play Billing Library v7 8
 - **Rendering:** Universal Render Pipeline (URP)
 
 ---
