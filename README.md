@@ -106,15 +106,6 @@ We may update this Privacy Policy periodically.
 Significant changes will be communicated through the app.
 
 
-
-## 📦 Tech Info
-- **Platform:** Android 7.0 and above  
-- **Bluetooth:** BLE 5.0+  
-- **Billing:** Google Play Billing Library v7.0  
-- **Supported Models:** R7, R8
-
----
-
 ## 🔧 Compatibility
 - Android 7.0 (Nougat) or higher
 - Bluetooth 5.0 or higher recommended
