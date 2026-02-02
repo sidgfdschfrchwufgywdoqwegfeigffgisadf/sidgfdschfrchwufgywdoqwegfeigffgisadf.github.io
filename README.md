@@ -19,14 +19,6 @@ Connect seamlessly via Bluetooth, adjust audio settings, update firmware, and pe
 - 💎 Premium features for advanced users  
 - 🧘 Intuitive and user-friendly interface
 
----
-
-## 🛒 In-App Purchases
-The app includes optional **in-app purchases (IAP)** for unlocking premium features and advanced sound profiles.  
-All purchases are handled securely through **Google Play Billing**.  
-We never collect or store payment details.
-
----
 
 ## 📊 Data & Privacy
 We value your privacy.  
@@ -113,18 +105,13 @@ These services have their own privacy policies.
 We may update this Privacy Policy periodically.  
 Significant changes will be communicated through the app.
 
-### 11. Contact Us
-If you have privacy-related questions, please contact:
-- **Email:** privacy@totamostudio.com  
-- **Address:** [Please fill in your company address]
 
----
 
 ## 📦 Tech Info
 - **Platform:** Android 7.0 and above  
 - **Bluetooth:** BLE 5.0+  
 - **Billing:** Google Play Billing Library v7.0  
-- **Supported Models:** R7, R8, R7 Pro, R8 Pro
+- **Supported Models:** R7, R8
 
 ---
 
