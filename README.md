@@ -106,12 +106,6 @@ We may update this Privacy Policy periodically.
 Significant changes will be communicated through the app.
 
 
-## 🔧 Compatibility
-- Android 7.0 (Nougat) or higher
-- Bluetooth 5.0 or higher recommended
-- Compatible with R7 and R8 series headphones
-
----
 
 ## 🧾 License
 © 2026 Totamo Studio. All rights reserved.  
